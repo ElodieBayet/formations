@@ -4,19 +4,19 @@ _Incomplet_
 
 ## Sommaire
 
-* [Prérequis](#prérequis)
-0. [Ch.0 - Rappels fondamentaux informatiques](#ch.0---rappels-fondamentaux-informatiques)
-1. [Ch.1 - Les algorithmes](#ch.1---les-algorithmes)
-2. [Ch.2 - Variables Instructions Opérations](#ch.2---variables-instructions-operations)
-3. [Ch.3 - Tests et logique](#ch.3---tests-et-logique)
-4. [Ch.4 - Boucles et itérations](#ch.4---boucles-et-iterations)
-5. [Ch.5 - Structures et ensembles](#ch.5---structures-et-ensembles)
-6. [Ch.6 - Sous-programmes Fonctions Procédures](#ch.6---sous-programmes-fonctions-procedures)
-7. [Ch.7 - Fichiers](#ch.7---fichiers)
-8. [Ch.8 - Pointeurs et références](#ch.8---pointeurs-et-references)
-9. [Ch.9 - Listes](#ch.9---listes)
-10. [Ch.10 - Arbres](#ch.9---arbres)
-11. [Ch.11 - Modèles algorithmiques](#ch.11---modeles-algorithmiques)
+* [Prérequis](#prerequis)
+0. [Ch.0 - Rappels fondamentaux informatiques](#ch0---rappels-fondamentaux-informatiques)
+1. [Ch.1 - Les algorithmes](#ch1---les-algorithmes)
+2. [Ch.2 - Variables Instructions Opérations](#ch2---variables-instructions-operations)
+3. [Ch.3 - Tests et logique](#ch3---tests-et-logique)
+4. [Ch.4 - Boucles et itérations](#ch4---boucles-et-iterations)
+5. [Ch.5 - Structures et ensembles](#ch5---structures-et-ensembles)
+6. [Ch.6 - Sous-programmes Fonctions Procédures](#ch6---sous-programmes-fonctions-procedures)
+7. [Ch.7 - Fichiers](#ch7---fichiers)
+8. [Ch.8 - Pointeurs et références](#ch8---pointeurs-et-references)
+9. [Ch.9 - Listes](#ch9---listes)
+10. [Ch.10 - Arbres](#ch9---arbres)
+11. [Ch.11 - Modèles algorithmiques](#ch11---modeles-algorithmiques)
 
 ---
 
@@ -79,18 +79,18 @@ _Incomplet_
 
 ## Ch.2 - **Variables Instructions Opérations**
 
-## 2.0 :: Variables et constantes
+### 2.0 :: Variables et constantes
 - Principe d'espace mémoire
 - Types de données : _entier_, _réel_, _chaine_, _booléen_, etc.
 - Déclarations et assignation
 - Distinction variables et constantes
 
-## 2.1 :: Instructions
+### 2.1 :: Instructions
 - Affectation
 - Lire
 - Afficher
 
-## 2.2 :: Expressions et opérations
+### 2.2 :: Expressions et opérations
 - Est un ensemble de valeurs reliées par des opérateurs et équivalent à 1 seule valeur à la fin
 - Résultat de type
 - Opérateurs artithmétique

@@ -2,21 +2,21 @@
 
 ## Sommaire 
 * [Prérequis](#prerequis)
-0. [Ch.0 - Le HTML](#ch.0---le-html)
-1. [Ch.1 - Sémantique et structure du langage HTML](#ch.1---semantique-et-structure-du-langage-HTML)
-2. [Ch.2 - Métadonnées de documentL](#ch.2---metadonnees-de-document)
-3. [Ch.3 - Éléments de section](#ch.3---elements-de-section)
-4. [Ch.4 - Éléments textuels groupants](#ch.4---elements-textuels-groupants)
-5. [Ch.5 - Éléments phrasés](#ch.5---elements-phrases)
-6. [Ch.6 - Principes avancés des liaisons externes](#ch.6---principes-avances-des-liaisons-externes)
-7. [Ch.7 - Éléments éditatbles](#ch.7---elements-editatbles)
-8. [Ch.8 - Éléments de contenu embarqué](#ch.8---elements-de-contenu-embarque)
-9. [Ch.9 - Éléments de tableaux](#ch.9---elements-de-tableaux)
-10. [Ch.10 - Éléments de formulaires](#ch.10---elements-de-formulaires)
-11. [Ch.11 - Éléments interactifs](#ch.11---elements-interactifs)
-12. [Ch.12 - Éléments relatifs aux scripts](#ch.12---elements-relatifs-aux-scripts)
-13. [Ch.13 - Éléments personnalisés](#ch.13---elements-personnalises)
-14. [Ch.14 - Connaissance complémentaire](#ch.14---connaissance-complementaire)
+0. [Ch.0 - Le HTML](#ch0---le-html)
+1. [Ch.1 - Sémantique et structure du langage HTML](#ch1---semantique-et-structure-du-langage-HTML)
+2. [Ch.2 - Métadonnées de documentL](#ch2---metadonnees-de-document)
+3. [Ch.3 - Éléments de section](#ch3---elements-de-section)
+4. [Ch.4 - Éléments textuels groupants](#ch4---elements-textuels-groupants)
+5. [Ch.5 - Éléments phrasés](#ch5---elements-phrases)
+6. [Ch.6 - Principes avancés des liaisons externes](#ch6---principes-avances-des-liaisons-externes)
+7. [Ch.7 - Éléments éditatbles](#ch7---elements-editatbles)
+8. [Ch.8 - Éléments de contenu embarqué](#ch8---elements-de-contenu-embarque)
+9. [Ch.9 - Éléments de tableaux](#ch9---elements-de-tableaux)
+10. [Ch.10 - Éléments de formulaires](#ch10---elements-de-formulaires)
+11. [Ch.11 - Éléments interactifs](#ch11---elements-interactifs)
+12. [Ch.12 - Éléments relatifs aux scripts](#ch12---elements-relatifs-aux-scripts)
+13. [Ch.13 - Éléments personnalisés](#ch13---elements-personnalises)
+14. [Ch.14 - Connaissance complémentaire](#ch14---connaissance-complementaire)
 
 ## Prérequis 
 - [Fondamentaux Informatiques](/fondamentaux-informatiques.md)
@@ -26,7 +26,7 @@
 ## Ch.0 - **Le HTML**
 
 ### 0.0 :: Description
-- Historique : Tim Berners Lee et le World Wide Web
+- Historique : Tim Berners-Lee et le World Wide Web
 - Standardisation
 - Utilisation
 - Évolution technologique

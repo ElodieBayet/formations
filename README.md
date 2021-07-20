@@ -12,17 +12,17 @@ Ces tables des matières sont en Français car les cours sont donnés ou ont ét
 
 ## Matières
 
-1. [Fondamentaux Informatiques](/fondamentaux-informatiques.md) : structure des ordinateurs et des systèmes informatiques ;
-2. [Algorithmique](/algorithmique.md) : logique de résolution de problèmes indépendemment des langages ;
-3. [HyperText Markup Language](/html.md) : développement et structure de pages Web en HTML 5 ;
-4. [Cascading Style Sheets](/css.md) : stylisation et layouting de pages Web en CSS 3 ;
-5. [JavaScript Core](/javascript-core.md) : la programmation en JavaScript, exploitation de l'ECMAScript ;
-6. [JavaScript Client-side](/javascript-client.md) : la programmation en JavaScript côté Client, utilisation d'APIs Web en environnement Navigateur ;
-7. JavaScript Server-side / Node.js : la programmation en JavaScript côté Serveur, utilisation de Modules en environnement Serveur ;
-8. TypeScript : la programmation en TypeScript, exploitation du typage fort ;
-9. PHP Hypertext Preprocessor : la programmation en PHP ;
-10. MySQL et SQL - Base de données relationnelles ;
-11. MongoDB et NoSQL - Base de données non-relationnelles ;
+* [Fondamentaux Informatiques](/fondamentaux-informatiques.md) :: structure des ordinateurs et des systèmes informatiques
+* [Algorithmique](/algorithmique.md) :: logique de résolution de problèmes indépendemment des langages
+* [HyperText Markup Language](/html.md) :: développement et structure de pages Web en HTML 5
+* [Cascading Style Sheets](/css.md) :: stylisation et layouting de pages Web en CSS 3
+* [JavaScript Core](/javascript-core.md) :: la programmation en JavaScript, exploitation de l'ECMAScript
+* [JavaScript Client-side](/javascript-client.md) :: la programmation en JavaScript côté Client, utilisation d'APIs Web en environnement Navigateur
+* JavaScript Server-side / Node.js :: la programmation en JavaScript côté Serveur, utilisation de Modules en environnement Serveur
+* TypeScript :: la programmation en TypeScript, exploitation du typage fort
+* PHP Hypertext Preprocessor :: la programmation en PHP
+* MySQL et SQL :: conception et utilisation de bases de données relationnelles
+* MongoDB et NoSQL :: conception et utilisation de bases de données non-relationnelles
 
 
 ## Références d'ouvrages

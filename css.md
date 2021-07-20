@@ -4,10 +4,10 @@ _Incomplet_
 
 ## Sommaire
 
-* [Prérequis](#prérequis)
-0. [Le langage CSS](#ch.0---le-langage-css)
-1. [Concepts du langage](#ch.1---concept-du-langage)
-2. [Les sélecteurs](#ch.2---les-selecteurs)
+* [Prérequis](#prerequis)
+0. [Le langage CSS](#ch0---le-langage-css)
+1. [Concepts du langage](#ch1---concept-du-langage)
+2. [Les sélecteurs](#ch2---les-selecteurs)
 
 ---
 

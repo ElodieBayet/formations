@@ -4,7 +4,7 @@ _Incomplet_
 
 ## Sommaire
 
-* [Prérequis](#prérequis)
+* [Prérequis](#prerequis)
 
 ---
 

@@ -4,15 +4,15 @@ _Incomplet_
 
 ## Sommaire
 
-* [Prérequis](#prérequis)
-0. [La machine](#ch.0---la-machine)
-1. [Architecture et Technologie](#ch.1---architecture-et-technologie)
-2. [Information](#ch.2---information)
-3. [Langages et programmes](#ch.3---langages-et-programmes)
-4. [Structure et fonctionnement](#ch.4---structure-et-fonctionnement)
-5. [Systèmes informatiques](#ch.5---systemes-informatiques)
-6. [Réseaux](#ch.6---réseaux)
-7. [Internet](#ch.7---internet)
+* [Prérequis](#prerequis)
+0. [La machine](#ch0---la-machine)
+1. [Architecture et Technologie](#ch1---architecture-et-technologie)
+2. [Informations](#ch2---informations)
+3. [Langages et programmes](#ch3---langages-et-programmes)
+4. [Structure et fonctionnement](#ch4---structure-et-fonctionnement)
+5. [Systèmes informatiques](#ch5---systemes-informatiques)
+6. [Réseaux](#ch6---réseaux)
+7. [Internet](#ch7---internet)
 
 
 ## Prérequis
@@ -78,13 +78,13 @@ _Incomplet_
 
 ---
 
-## Ch.2 - **Information**
+## Ch.2 - **Informations**
 
 ### 0.0 :: Le Binaire, l'octale et l'hexadécimale
 - Principes logiques
 - Le Binary Digit : _poid fort_, _poid faible_, _quartet_, _octet_, _word_, _long-word_
 - La base octale
-- La base Hexadécimal
+- La base Hexadécimale
 
 ### 0.1 :: Données numériques
 - Entiers positifs, nombres non-signés : _précisions_, _overflow_
@@ -109,7 +109,7 @@ _Incomplet_
 
 ---
 
-## Ch.3 - **Languages et programme**
+## Ch.3 - **Languages et programmes**
 
 ### 3.0 :: Description générale
 - Algorithmes
@@ -128,7 +128,7 @@ _Incomplet_
 - Édition de liens : _rôle_, _fonctionnement_
 - Chargement : _rôle_, _édition dynamique_
 - Préprocesseur : _include_, _define_, _compilation conditionnelle_
-- Utilitaire Make ?
+- Utilitaire Make
 - Composants : _compilateurs_, _interpréteurs_, _machines virtuelles_
 
 ---
