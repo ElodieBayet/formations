@@ -16,7 +16,7 @@ Ces tables des matières sont en Français car les cours sont donnés ou ont ét
 * [Algorithmique](/algorithmique.md) :: logique de résolution de problèmes indépendemment des langages
 * [HyperText Markup Language](/html.md) :: développement et structure de pages Web en HTML 5
 * [Cascading Style Sheets](/css.md) :: stylisation et layouting de pages Web en CSS 3
-* [JavaScript Core](/javascript-core.md) :: la programmation en JavaScript, exploitation de l'ECMAScript
+* [JavaScript](/javascript.md) :: la programmation en JavaScript, exploitation de l'ECMAScript
 * [JavaScript Client-side](/javascript-client.md) :: la programmation en JavaScript côté Client, utilisation d'APIs Web en environnement Navigateur
 * JavaScript Server-side / Node.js :: la programmation en JavaScript côté Serveur, utilisation de Modules en environnement Serveur
 * TypeScript :: la programmation en TypeScript, exploitation du typage fort
@@ -27,7 +27,7 @@ Ces tables des matières sont en Français car les cours sont donnés ou ont ét
 
 ## Références d'ouvrages
 
-Livres vivement recommandés pour leurs pertinences, leurs précisions, et la richesse de leurs instructions. Il est probable que certains ouvrages ne soient plus disponibles. Assurez-vous également d'acquérir les dernières éditions le cas échéant.
+Livres vivement recommandés pour leurs pertinences, leurs précisions, et la richesse de leurs instructions. Assurez-vous d'acquérir les dernières éditions. Cependant, il est probable que certains ouvrages ne soient plus disponibles.
 
 ### Informatique
 - "Architecture des machines et des systèmes informatiques" – Alain CAZES et Joêlle DELACROIX – Éd. _Dunod_, Col. _InfoSup_
